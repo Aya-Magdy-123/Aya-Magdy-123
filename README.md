@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,14,18,24&height=260&section=header&text=Aya%20Magdy&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Front-End%20Developer%20%C2%B7%20UI%2FUX%20Designer&descAlignY=62&descSize=22" width="100%" alt="banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,24&height=260&section=header&text=Aya%20Magdy&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Front-End%20Developer%20%C2%B7%20UI%2FUX%20Designer&descAlignY=62&descSize=22" width="100%" alt="banner"/>
 
 <a href="https://github.com/Aya-Magdy-123">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C471ED&center=true&vCenter=true&width=700&lines=Hi+there!+%F0%9F%91%8B+I'm+Aya;Front-End+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Turning+ideas+into+beautiful+interfaces+%E2%9C%A8" alt="Typing SVG" />
